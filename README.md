@@ -6,12 +6,12 @@ This project presents an executive Power BI analysis of a European pharmacy dist
 
 **Objectives**
 
-Analyze revenue and margin distribution across regions
+•Analyze revenue and margin distribution across regions
 
-Evaluate performance by store type and size
+•Evaluate performance by store type and size
 
-Identify top-performing product categories
+•Identify top-performing product categories
 
-Assess promotion effectiveness
+•Assess promotion effectiveness
 
-Highlight opportunities for growth and optimization
+•Highlight opportunities for growth and optimization
